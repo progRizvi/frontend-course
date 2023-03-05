@@ -1,1 +1,2 @@
-- url https://openapi.programming-hero.com/api/ai/tools/
+- All Data(https://openapi.programming-hero.com/api/ai/tools/)
+- single Data(https://openapi.programming-hero.com/api/ai/tool/01)
